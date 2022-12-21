@@ -1,0 +1,20 @@
+{
+    "name": "duncte123/data-transfer-tool",
+    "description": "Tool to transfer data",
+    "type": "project",
+    "license": "GPLv3",
+    "autoload": {
+        "psr-4": {
+            "Duncte123\\DataTransferTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "duncte123",
+            "email": "contact@duncte123.me"
+        }
+    ],
+    "require": {
+        "php": "8.1"
+    }
+}
